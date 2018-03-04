@@ -1,5 +1,8 @@
 {
+  "name": "chris_2/chazinga",
+  "type": "project",
   "require": {
-    "auth0/login": "5.0.*"
+    "php": "7.2.*",
+    "auth0/login": "^5.0"
   }
 }
