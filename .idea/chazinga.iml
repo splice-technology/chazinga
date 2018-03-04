@@ -7,5 +7,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="jr2hp" />
+    <orderEntry type="module" module-name="bootstrap" />
   </component>
 </module>
